@@ -1,0 +1,12 @@
+{
+  "scope": "overall",
+  "model": "ridge_regression",
+  "model_wape": 0.1046433162424633,
+  "baseline_wape": 0.5048081411632901,
+  "model_bias": 0.049109897168411694,
+  "baseline_bias": -0.13565493417981514,
+  "mae": 3.5026080008532015,
+  "test_weeks": 8,
+  "train_rows": 3040,
+  "test_rows": 320.0
+}

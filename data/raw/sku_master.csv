@@ -1,0 +1,41 @@
+sku_id,sku_name,category,subcategory,brand,launch_date,unit_cost,list_price,supplier,size,color,lifecycle_stage,target_margin
+SKU0001,Chairs 0001,Furniture,Chairs,BrightHome,2024-03-27,879.45,1676.04,S2-Pune,Standard,Blue,Growth,0.475
+SKU0002,Storage 0002,Furniture,Storage,CasaNova,2023-07-18,1214.09,2797.27,S1-Mumbai,XL,Brown,Slow Moving,0.566
+SKU0003,Cookware 0003,Kitchen,Cookware,NorthBay,2023-06-06,1170.55,2761.79,S3-Delhi,XS,Brown,Slow Moving,0.576
+SKU0004,Wall Art 0004,Home Decor,Wall Art,NorthBay,2023-01-08,549.37,821.51,S1-Mumbai,XL,Beige,Growth,0.331
+SKU0005,Vases 0005,Home Decor,Vases,NorthBay,2024-02-10,1465.65,3916.71,S2-Pune,Standard,Blue,New,0.626
+SKU0006,Comforters 0006,Bedding,Comforters,CasaNova,2024-09-25,2070.52,3518.51,S4-Bengaluru,L,Blue,Mature,0.412
+SKU0007,Decor Lights 0007,Lighting,Decor Lights,CasaNova,2023-05-02,944.3,2438.4,S3-Delhi,XL,White,Growth,0.613
+SKU0008,Blankets 0008,Bedding,Blankets,EcoLiving,2023-12-06,844.21,1295.04,S1-Mumbai,XL,Brown,New,0.348
+SKU0009,Bedsheets 0009,Bedding,Bedsheets,BrightHome,2023-09-05,1773.42,4171.89,S4-Bengaluru,S,White,Mature,0.575
+SKU0010,Table Lamps 0010,Lighting,Table Lamps,NorthBay,2023-04-14,447.68,1039.94,S1-Mumbai,XL,Blue,Slow Moving,0.57
+SKU0011,Tables 0011,Furniture,Tables,UrbanNest,2024-04-18,157.8,489.32,S2-Pune,XS,Beige,Slow Moving,0.678
+SKU0012,Ceiling Lights 0012,Lighting,Ceiling Lights,BrightHome,2024-03-15,1537.69,2643.65,S1-Mumbai,M,Beige,Growth,0.418
+SKU0013,Storage 0013,Furniture,Storage,UrbanNest,2023-02-12,2026.64,3009.28,S1-Mumbai,S,Green,Growth,0.327
+SKU0014,Floor Lamps 0014,Lighting,Floor Lamps,BrightHome,2024-05-15,1382.07,2571.87,S3-Delhi,L,Green,Mature,0.463
+SKU0015,Shelves 0015,Furniture,Shelves,UrbanNest,2025-01-27,2362.19,4464.87,S4-Bengaluru,XS,White,Mature,0.471
+SKU0016,Pillows 0016,Bedding,Pillows,BrightHome,2023-12-01,334.48,929.84,S2-Pune,XS,Beige,New,0.64
+SKU0017,Shelves 0017,Furniture,Shelves,EcoLiving,2025-01-24,526.85,866.29,S4-Bengaluru,Standard,Black,Mature,0.392
+SKU0018,Shelves 0018,Furniture,Shelves,UrbanNest,2024-08-24,2122.67,3905.27,S3-Delhi,XS,Green,Mature,0.456
+SKU0019,Appliances 0019,Kitchen,Appliances,EcoLiving,2024-09-30,1419.45,2209.81,S3-Delhi,Standard,Multi,New,0.358
+SKU0020,Bedsheets 0020,Bedding,Bedsheets,CasaNova,2023-06-17,1815.41,2702.83,S4-Bengaluru,Standard,Brown,Mature,0.328
+SKU0021,Decor Lights 0021,Lighting,Decor Lights,BrightHome,2023-10-13,1019.76,1804.52,S3-Delhi,L,Brown,Mature,0.435
+SKU0022,Serveware 0022,Kitchen,Serveware,CasaNova,2025-02-06,1186.22,1947.26,S2-Pune,M,Brown,New,0.391
+SKU0023,Tables 0023,Furniture,Tables,EcoLiving,2023-01-20,1680.8,3013.33,S3-Delhi,S,Black,Mature,0.442
+SKU0024,Vases 0024,Home Decor,Vases,EcoLiving,2024-12-23,754.1,1241.83,S1-Mumbai,M,Blue,Mature,0.393
+SKU0025,Storage Jars 0025,Kitchen,Storage Jars,EcoLiving,2023-03-15,222.99,440.12,S1-Mumbai,L,Beige,New,0.493
+SKU0026,Cookware 0026,Kitchen,Cookware,CasaNova,2023-07-26,792.08,1957.36,S4-Bengaluru,XL,Multi,Slow Moving,0.595
+SKU0027,Comforters 0027,Bedding,Comforters,NorthBay,2023-12-03,2292.84,3505.1,S4-Bengaluru,S,Black,New,0.346
+SKU0028,Appliances 0028,Kitchen,Appliances,UrbanNest,2024-11-24,1526.2,3148.44,S1-Mumbai,XS,Black,New,0.515
+SKU0029,Mirrors 0029,Home Decor,Mirrors,CasaNova,2024-08-29,1452.04,3495.91,S4-Bengaluru,M,Green,Mature,0.585
+SKU0030,Cookware 0030,Kitchen,Cookware,UrbanNest,2024-09-25,591.53,1734.47,S1-Mumbai,S,Multi,New,0.659
+SKU0031,Chairs 0031,Furniture,Chairs,UrbanNest,2024-06-17,2049.97,3331.21,S1-Mumbai,M,Black,Mature,0.385
+SKU0032,Tables 0032,Furniture,Tables,UrbanNest,2024-11-29,2114.03,3789.65,S3-Delhi,XL,Black,Growth,0.442
+SKU0033,Tables 0033,Furniture,Tables,BrightHome,2023-01-03,2263.24,6281.13,S2-Pune,L,Black,Mature,0.64
+SKU0034,Storage Jars 0034,Kitchen,Storage Jars,CasaNova,2024-03-15,1110.8,1756.02,S1-Mumbai,S,Multi,Mature,0.367
+SKU0035,Decor Lights 0035,Lighting,Decor Lights,CasaNova,2025-02-26,492.96,1026.11,S1-Mumbai,S,Multi,New,0.52
+SKU0036,Wall Art 0036,Home Decor,Wall Art,NorthBay,2025-01-21,853.1,1850.24,S2-Pune,Standard,Brown,Mature,0.539
+SKU0037,Bedsheets 0037,Bedding,Bedsheets,BrightHome,2024-10-31,2374.02,6159.73,S2-Pune,M,Green,Slow Moving,0.615
+SKU0038,Vases 0038,Home Decor,Vases,NorthBay,2023-10-07,234.24,420.74,S4-Bengaluru,L,Beige,Mature,0.443
+SKU0039,Comforters 0039,Bedding,Comforters,UrbanNest,2024-03-11,603.26,1736.3,S2-Pune,L,Green,Slow Moving,0.653
+SKU0040,Candles 0040,Home Decor,Candles,BrightHome,2023-08-19,261.5,507.75,S1-Mumbai,M,Black,Mature,0.485

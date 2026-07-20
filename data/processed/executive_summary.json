@@ -1,0 +1,11 @@
+{
+  "model_wape": 0.1046433160597152,
+  "baseline_wape": 0.5048081411632901,
+  "wape_improvement": 0.7927067582179379,
+  "sales_at_risk_rupees": 10349480.48,
+  "locked_capital_rupees": 146543.05000000002,
+  "reorder_now_skus": 17,
+  "markdown_clear_skus": 1,
+  "watch_volatile_skus": 0,
+  "healthy_skus": 22
+}

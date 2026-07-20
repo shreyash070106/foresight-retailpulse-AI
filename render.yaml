@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: foresight-retailpulse-api
+    env: python
+    buildCommand: pip install -r requirements.txt && python run_all.py
+    startCommand: uvicorn service.api:app --host 0.0.0.0 --port $PORT
+    plan: free

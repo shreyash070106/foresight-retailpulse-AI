@@ -1,0 +1,41 @@
+sku_id,sku_name,category,subcategory,forecast_8w_units,forecast_leadtime_units,available_units,on_hand_units,on_order_units,lead_time_days,reorder_point,stockout_risk,overstock_risk,volatility_risk,recommended_action,reason,recommended_order_qty,markdown_candidate_units,sales_at_risk_rupees,locked_capital_rupees,priority_score
+SKU0025,Storage Jars 0025,Kitchen,Storage Jars,68.73,47.73,29.0,0.0,29.0,18.0,220.0,0.9006,0.0,1.0,Reorder now,Forecasted lead-time demand can exceed available stock.,272,0,119595.16,0.0,63.23
+SKU0011,Tables 0011,Furniture,Tables,78.39,29.54,18.0,0.0,18.0,27.0,240.0,0.938,0.0,0.6685,Reorder now,Forecasted lead-time demand can exceed available stock.,288,0,140698.85,0.0,58.4
+SKU0001,Chairs 0001,Furniture,Chairs,75.38,29.15,12.0,0.0,12.0,17.0,159.0,0.939,0.0,0.6572,Reorder now,Forecasted lead-time demand can exceed available stock.,201,0,335210.16,0.0,58.21
+SKU0003,Cookware 0003,Kitchen,Cookware,79.44,39.8,27.0,0.0,27.0,23.0,273.0,0.9211,0.0,0.6733,Reorder now,Forecasted lead-time demand can exceed available stock.,327,0,902407.55,0.0,57.68
+SKU0008,Blankets 0008,Bedding,Blankets,90.13,47.8,10.0,1.0,9.0,27.0,73.0,0.9171,0.0,0.6783,Reorder now,Forecasted lead-time demand can exceed available stock.,122,0,157671.93,0.0,57.59
+SKU0018,Shelves 0018,Furniture,Shelves,82.34,41.48,27.0,4.0,23.0,27.0,266.0,0.9196,0.0,0.6673,Reorder now,Forecasted lead-time demand can exceed available stock.,321,0,1251161.29,0.0,57.49
+SKU0028,Appliances 0028,Kitchen,Appliances,83.28,43.52,29.0,0.0,29.0,19.0,248.0,0.909,0.0,0.6849,Reorder now,Forecasted lead-time demand can exceed available stock.,300,0,943637.01,0.0,57.33
+SKU0009,Bedsheets 0009,Bedding,Bedsheets,127.4,52.85,17.0,0.0,17.0,28.0,214.0,0.94,0.0,0.5556,Reorder now,Forecasted lead-time demand can exceed available stock.,282,0,1176281.7,0.0,56.23
+SKU0012,Ceiling Lights 0012,Lighting,Ceiling Lights,75.16,4.3,19.0,0.0,19.0,14.0,133.0,0.8736,0.0,0.6737,Reorder now,Forecasted lead-time demand can exceed available stock.,139,0,365485.59,0.0,55.41
+SKU0037,Bedsheets 0037,Bedding,Bedsheets,74.92,22.59,12.0,1.0,11.0,16.0,66.0,0.8693,0.0,0.6658,Reorder now,Forecasted lead-time demand can exceed available stock.,87,0,532725.35,0.0,55.04
+SKU0019,Appliances 0019,Kitchen,Appliances,125.72,36.73,44.0,0.0,44.0,15.0,370.0,0.9029,0.0,0.5655,Reorder now,Forecasted lead-time demand can exceed available stock.,419,0,924200.02,0.0,54.65
+SKU0021,Decor Lights 0021,Lighting,Decor Lights,80.78,17.35,30.0,7.0,23.0,14.0,146.0,0.8336,0.0,0.675,Reorder now,Forecasted lead-time demand can exceed available stock.,156,0,280151.54,0.0,53.51
+SKU0004,Wall Art 0004,Home Decor,Wall Art,116.25,34.33,8.0,1.0,7.0,20.0,36.0,0.8827,0.0,0.5552,Reorder now,Forecasted lead-time demand can exceed available stock.,68,0,55638.35,0.0,53.47
+SKU0031,Chairs 0031,Furniture,Chairs,79.47,17.27,16.0,0.0,16.0,10.0,53.0,0.7854,0.0,0.6592,Reorder now,Forecasted lead-time demand can exceed available stock.,63,0,207253.85,0.0,50.88
+SKU0033,Tables 0033,Furniture,Tables,82.53,22.35,19.0,0.0,19.0,8.0,48.0,0.7454,0.0,0.6732,Reorder now,Forecasted lead-time demand can exceed available stock.,59,0,367776.91,0.0,49.24
+SKU0035,Decor Lights 0035,Lighting,Decor Lights,67.89,1.8,359.0,339.0,40.0,7.0,221.0,0.0,0.7075,1.0,Markdown / clear,On-hand stock is materially higher than expected horizon demand.,0,241,0.0,118585.49,42.64
+SKU0010,Table Lamps 0010,Lighting,Table Lamps,70.78,49.65,89.0,9.0,81.0,18.0,103.0,0.4678,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,80,0,82261.79,0.0,42.45
+SKU0002,Storage 0002,Furniture,Storage,74.75,4.18,14.0,4.0,10.0,10.0,25.0,0.5579,0.0,0.6915,Reorder now,Forecasted lead-time demand can exceed available stock.,19,0,52945.65,0.0,40.61
+SKU0039,Comforters 0039,Bedding,Comforters,121.06,35.54,45.0,4.0,41.0,20.0,61.0,0.5688,0.0,0.5638,Reorder now,Forecasted lead-time demand can exceed available stock.,61,0,105370.11,0.0,38.58
+SKU0005,Vases 0005,Home Decor,Vases,62.88,42.87,187.0,0.0,187.0,21.0,225.0,0.3788,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,115,0,448947.43,0.0,38.18
+SKU0014,Floor Lamps 0014,Lighting,Floor Lamps,123.91,52.28,98.0,0.0,98.0,24.0,116.0,0.4697,0.0,0.5638,Healthy,Inventory appears aligned with the forecast.,88,0,225512.55,0.0,33.82
+SKU0015,Shelves 0015,Furniture,Shelves,66.18,2.04,76.0,60.0,18.0,11.0,90.0,0.2772,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,30,0,131876.96,0.0,33.31
+SKU0034,Storage Jars 0034,Kitchen,Storage Jars,122.41,51.44,144.0,8.0,137.0,27.0,179.0,0.4386,0.0,0.5647,Healthy,Inventory appears aligned with the forecast.,114,0,198946.25,0.0,32.35
+SKU0024,Vases 0024,Home Decor,Vases,123.01,36.44,107.0,0.0,107.0,17.0,132.0,0.4293,0.0,0.5604,Healthy,Inventory appears aligned with the forecast.,82,0,100886.3,0.0,31.81
+SKU0032,Tables 0032,Furniture,Tables,76.76,4.59,151.0,0.0,151.0,13.0,203.0,0.3641,0.0,0.6571,Healthy,Inventory appears aligned with the forecast.,88,0,329844.84,0.0,30.62
+SKU0013,Storage 0013,Furniture,Storage,83.11,21.86,168.0,4.0,164.0,14.0,185.0,0.2827,0.0,0.6979,Healthy,Inventory appears aligned with the forecast.,67,0,200451.85,0.0,27.53
+SKU0038,Vases 0038,Home Decor,Vases,79.94,41.14,94.0,4.0,90.0,20.0,76.0,0.2666,0.0,0.6793,Healthy,Inventory appears aligned with the forecast.,35,0,14531.56,0.0,26.38
+SKU0029,Mirrors 0029,Home Decor,Mirrors,125.31,37.91,334.0,0.0,334.0,20.0,381.0,0.2978,0.0,0.5535,Healthy,Inventory appears aligned with the forecast.,143,0,496615.47,0.0,25.36
+SKU0026,Cookware 0026,Kitchen,Cookware,79.89,30.83,126.0,0.0,127.0,17.0,119.0,0.2471,0.0,0.6602,Healthy,Inventory appears aligned with the forecast.,42,0,81586.74,0.0,25.07
+SKU0020,Bedsheets 0020,Bedding,Bedsheets,68.94,2.31,39.0,0.0,39.0,10.0,36.0,0.1053,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,5,0,12721.92,0.0,25.05
+SKU0023,Tables 0023,Furniture,Tables,83.31,43.39,170.0,0.0,170.0,20.0,141.0,0.1721,0.0,0.6868,Healthy,Inventory appears aligned with the forecast.,36,0,107085.8,0.0,22.0
+SKU0036,Wall Art 0036,Home Decor,Wall Art,76.02,28.5,146.0,143.0,9.0,26.0,81.0,0.0,0.2276,0.6656,Healthy,Inventory appears aligned with the forecast.,0,33,0.0,27957.56,20.59
+SKU0040,Candles 0040,Home Decor,Candles,64.84,43.97,215.0,4.0,211.0,16.0,140.0,0.0,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,20.0
+SKU0030,Cookware 0030,Kitchen,Cookware,67.26,1.65,85.0,2.0,83.0,11.0,70.0,0.0,0.0,1.0,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,20.0
+SKU0006,Comforters 0006,Bedding,Comforters,82.05,17.59,120.0,0.0,120.0,12.0,64.0,0.0,0.0,0.6713,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,13.43
+SKU0022,Serveware 0022,Kitchen,Serveware,76.07,22.05,213.0,70.0,148.0,16.0,87.0,0.0,0.0,0.6589,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,13.18
+SKU0016,Pillows 0016,Bedding,Pillows,81.11,17.62,128.0,1.0,127.0,8.0,49.0,0.0,0.0,0.6586,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,13.17
+SKU0017,Shelves 0017,Furniture,Shelves,78.17,5.24,112.0,0.0,112.0,13.0,66.0,0.0,0.0,0.6561,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,13.12
+SKU0027,Comforters 0027,Bedding,Comforters,75.89,4.62,26.0,7.0,19.0,11.0,16.0,0.0,0.0,0.6526,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,13.05
+SKU0007,Decor Lights 0007,Lighting,Decor Lights,81.49,5.25,287.0,0.0,287.0,14.0,143.0,0.0,0.0,0.6425,Healthy,Inventory appears aligned with the forecast.,0,0,0.0,0.0,12.85

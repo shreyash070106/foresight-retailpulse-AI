@@ -1,0 +1,36 @@
+FORESIGHT + RetailPulse Complete Project
+======================================
+
+1) Open terminal in this folder.
+
+2) Optional virtual environment:
+   python -m venv venv
+   .\venv\Scripts\Activate.ps1
+
+   If PowerShell blocks activation, run:
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+   .\venv\Scripts\Activate.ps1
+
+3) Install packages:
+   python -m pip install -r requirements.txt
+
+4) Generate / refresh all datasets and model outputs:
+   python run_all.py
+
+5) Run the advanced dashboard:
+   python -m streamlit run app\dashboard.py
+
+6) Optional API:
+   uvicorn service.api:app --reload
+
+Advanced dashboard sections included:
+- Executive Cockpit
+- Forecast Lab
+- Risk Command Center
+- What-if Simulator
+- RetailPulse Customer 360
+- Data Explorer
+- Reports and meeting summary
+
+The older simple dashboard is backed up as:
+app/dashboard_basic.py

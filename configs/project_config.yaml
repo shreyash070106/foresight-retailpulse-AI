@@ -1,0 +1,18 @@
+project:
+  name: "FORESIGHT + RetailPulse"
+  client: "NorthBay Living"
+  forecast_horizon_weeks: 8
+  baseline_seasonal_lag_weeks: 52
+  random_seed: 42
+
+data_generation:
+  n_skus: 40
+  n_customers: 2400
+  start_date: "2024-06-01"
+  end_date: "2025-12-31"
+  snapshot_frequency_days: 7
+
+risk:
+  stockout_threshold: 0.55
+  overstock_threshold: 0.55
+  safety_stock_multiplier: 1.15
