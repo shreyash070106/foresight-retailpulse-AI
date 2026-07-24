@@ -1,6 +1,6 @@
 # FORESIGHT + RetailPulse — AI Retail Intelligence Platform
 
-A complete Zidio-style Data Science & Analytics internship project combining **Project FORESIGHT** demand and inventory intelligence with **RetailPulse** customer analytics.
+A complete  Data Science & Analytics internship project combining Project FORESIGHT demand and inventory intelligence with RetailPulse customer analytics.
 
 The project converts retail sales, SKU, calendar, and inventory extracts into:
 
@@ -18,7 +18,7 @@ The project converts retail sales, SKU, calendar, and inventory extracts into:
 This project is based on the provided RetailPulse dataset. The raw dataset files are stored in data/raw and include sales, inventory, SKU master, and calendar data. These files were cleaned, merged, and transformed into processed files stored in data/processed, which are used for forecasting, inventory risk scoring, customer analytics, and dashboard visualization.
 ---
 
-## Project positioning
+# Project positioning
 
  
 Role: Data Scientist & Analytics Intern  
@@ -27,7 +27,7 @@ Solution: forecast demand, score risk, and give the operations team a dashboard/
 
 ---
 
-## Final deliverables included
+# Final deliverables included
 
 | ID | Deliverable | Included file/folder |
 |---|---|---|
@@ -42,7 +42,7 @@ Solution: forecast demand, score risk, and give the operations team a dashboard/
 
 ---
 
-## Repository structure
+# Repository structure
 
 ```text
 FORESIGHT_RetailPulse_Complete/
