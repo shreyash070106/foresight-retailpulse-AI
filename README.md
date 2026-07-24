@@ -14,16 +14,16 @@ The project converts retail sales, SKU, calendar, and inventory extracts into:
 - a FastAPI scoring service
 - EDA, model, risk, and executive reports
 
-> This version is built as a complete reproducible project. It includes a seeded enhanced dataset generator because the actual raw CSV extracts were not available in this workspace. When you receive official Zidio CSVs, replace the files in `data/raw/` and run the same pipeline again.
+> 
 This project is based on the provided RetailPulse dataset. The raw dataset files are stored in data/raw and include sales, inventory, SKU master, and calendar data. These files were cleaned, merged, and transformed into processed files stored in data/processed, which are used for forecasting, inventory risk scoring, customer analytics, and dashboard visualization.
 ---
 
 ## Project positioning
 
-**Client:** NorthBay Living, a D2C home and lifestyle brand  
-**Role:** Data Scientist & Analytics Intern  
-**Business problem:** best-selling SKUs stock out while slow-moving SKUs lock capital in inventory.  
-**Solution:** forecast demand, score risk, and give the operations team a dashboard/API to decide what to reorder or clear.
+ 
+Role: Data Scientist & Analytics Intern  
+Business problem: best-selling SKUs stock out while slow-moving SKUs lock capital in inventory.  
+Solution: forecast demand, score risk, and give the operations team a dashboard/API to decide what to reorder or clear.
 
 ---
 
@@ -91,7 +91,7 @@ FORESIGHT_RetailPulse_Complete/
 
 ---
 
-## Quick start — Windows
+# Quick start — Windows
 
 Open the project folder in VS Code or Command Prompt, then run:
 
@@ -122,7 +122,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Quick start — macOS/Linux/Kali
+# Quick start — macOS/Linux/Kali
 
 ```bash
 python3 -m venv venv
@@ -153,7 +153,7 @@ curl -X POST http://127.0.0.1:8000/batch-score \
 
 ---
 
-## Methodology
+# Methodology
 
 1. Generate or load raw extracts.
 2. Validate schema and clean data.
@@ -170,18 +170,18 @@ curl -X POST http://127.0.0.1:8000/batch-score \
 
 ---
 
-## Main metrics explained
+# Main metrics explained
 
-**WAPE** = total absolute forecast error / total actual demand. Lower is better.  
-**Bias** = total forecast error / total actual demand. Close to zero is better.  
-**Sales at risk** = units likely missed due to stockout × list price.  
-**Locked capital** = estimated excess units × unit cost.
+WAPE = total absolute forecast error / total actual demand. Lower is better.  
+Bias = total forecast error / total actual demand. Close to zero is better.  
+Sales at risk = units likely missed due to stockout × list price.  
+Locked capital = estimated excess units × unit cost.
 
 ---
 
-## Deployment notes
+# Deployment notes
 
-### Streamlit Cloud
+# Streamlit Cloud
 
 1. Push this folder to GitHub.
 2. Create a new Streamlit app.
@@ -189,7 +189,7 @@ curl -X POST http://127.0.0.1:8000/batch-score \
 4. Add `requirements.txt`.
 5. Deploy.
 
-### Render API
+# Render API
 
 Build command:
 
@@ -205,7 +205,7 @@ uvicorn service.api:app --host 0.0.0.0 --port $PORT
 
 ---
 
-## Important assumption
+# Important assumption
 
 The official engagement brief says the project should use provided extracts. Since actual CSV extracts were not available inside this workspace, this package includes a deterministic enhanced dataset generator. It keeps the required FORESIGHT tables and adds RetailPulse-style columns such as customer ID, region, channel, discount, ad spend, return units, warehouse zone, and campaign intensity.
 
