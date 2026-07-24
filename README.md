@@ -15,7 +15,7 @@ The project converts retail sales, SKU, calendar, and inventory extracts into:
 - EDA, model, risk, and executive reports
 
 > This version is built as a complete reproducible project. It includes a seeded enhanced dataset generator because the actual raw CSV extracts were not available in this workspace. When you receive official Zidio CSVs, replace the files in `data/raw/` and run the same pipeline again.
-
+This project is based on the provided RetailPulse dataset. The raw dataset files are stored in data/raw and include sales, inventory, SKU master, and calendar data. These files were cleaned, merged, and transformed into processed files stored in data/processed, which are used for forecasting, inventory risk scoring, customer analytics, and dashboard visualization.
 ---
 
 ## Project positioning
